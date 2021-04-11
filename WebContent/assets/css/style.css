@@ -1,0 +1,15 @@
+body{
+    background-color: black;
+    background:linear-gradient(rgba(0,0,0,0.7), rgba(0,0,0,0.7)), url("../../img/hostel1.jpg"); 
+}
+    
+  section {
+    position: absolute;
+    font-size: 1500%;
+    top: 20%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: #fff;
+    font-family:  "Lucida Console", Courier, monospace;
+  }
+
